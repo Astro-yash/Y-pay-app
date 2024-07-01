@@ -38,14 +38,16 @@ This app has various features, they are as follows:
  ___
 
 
+![Screenshot 2024-07-01 224032](https://github.com/Astro-yash/Y-pay-app/assets/173896650/614ba95f-e2f2-4944-a640-c1819d85f71d)
 
-![Screenshot 2024-07-01 224032](https://github.com/Astro-yash/Y-pay-app/assets/173896650/5ba20a15-ea0b-4ebf-a2f6-5d5d3c049d87)
+
 
 
 ___
 
-![Screenshot 2024-07-01 224128](https://github.com/Astro-yash/Y-pay-app/assets/173896650/d70db180-42a8-4210-88e1-8ed5adf69657)
 
 
+
+![Screenshot 2024-07-01 224128](https://github.com/Astro-yash/Y-pay-app/assets/173896650/fbaaf250-bc8e-44ab-8ec0-b700522b639d)
 
 
